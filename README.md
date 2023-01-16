@@ -4,7 +4,7 @@ My name is Yvonne and I am working as a freelancer in the field of software engi
 
 #### Some key facts about myself 💁🏻‍♀️
 - 🤓 I’m currently working on the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
-- 👩🏻‍💻 I am a software engineer working with Python and Angular.
+- 👩🏻‍💻 I am a software engineer working with Python and Type Script.
 - 📈 As a data analyst I am feeling comfortable with BI tools and SQL.
 - 🚀 I have free capacity for your next project.
 - 📫 How to reach me: [yvonne@nola-ventures.com](mailto:yvonne@nola-ventures.com).
