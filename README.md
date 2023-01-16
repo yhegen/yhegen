@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is Yvonne and I am working as a freelancer in the field of software engineering and data analytics.
+
+#### Some key facts about myself 💁🏻‍♀️
+- 🤓 I’m currently working on the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
+- 👩🏻‍💻 I am a software engineer working with Python and Angular.
+- 📈 As a data analyst I am feeling comfortable with BI tools and SQL.
+- 🚀 I have free capacity for your next project.
+- 📫 How to reach me: [yvonne@nola-ventures.com](mailto:yvonne@nola-ventures.com).
+- ⛵ Fun fact: I'm living on a boat.
 
 <!--
 **yhegen/yhegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
